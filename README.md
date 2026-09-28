@@ -117,4 +117,5 @@ No. It prepares the figures and documents for you or your accountant. Whether yo
 
 ---
 
-© 2026 A.C. van der Linde. Imperium is not a substitute for professional tax or legal advice.
+© 2026 A.C. van der Linde. 
+Imperium is not a substitute for professional tax or legal advice.
