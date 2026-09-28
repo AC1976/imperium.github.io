@@ -117,5 +117,6 @@ No. It prepares the figures and documents for you or your accountant. Whether yo
 
 ---
 
-© 2026 A.C. van der Linde. 
+© 2026 A.C. van der Linde. All rights reserved — see [LICENSE](LICENSE). The app is licensed under Apple's [Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
+
 Imperium is not a substitute for professional tax or legal advice.
