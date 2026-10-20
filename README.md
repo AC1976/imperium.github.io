@@ -45,12 +45,14 @@ Imperium is Build for iPad to maximize functionality whilst keeping visibility. 
 
 ## Privacy Policy
 
-*Last updated: 28 September 2026*
+*Last updated: 20 October 2026*
 
 **The short version: Imperium does not collect any data. Everything you enter stays on your iPad.**
 
 ### What Imperium stores
 Imperium stores the information you enter on your device only. That covers properties, lessees, leases, invoices, expenses, scanned documents and settings. It has no user accounts, no servers and no iCloud sync. The developer cannot see, access or receive any of it.
+
+Imperium can save backups of your data to your *own* iCloud Drive. These are stored in your iCloud account and are not accessible to the developer. Nothing is collected, tracked or shared.
 
 ### What Imperium does not do
 - No analytics, tracking or advertising.
@@ -72,6 +74,8 @@ Invoices, reminders, indexation letters and VAT reports are sent only when you c
 
 ### Backups
 Your data is part of your iPad's device backup (iCloud Backup or a backup to your computer) if you have that turned on. Those backups are managed by you and Apple.
+
+Imperium can save backups of your data to your own iCloud Drive. These are stored in your iCloud account and are not accessible to the developer. Nothing is collected, tracked or shared.
 
 ### Deleting your data
 Delete records inside the app, or delete the app to remove all of its data from your iPad. Existing device backups keep a copy until they're replaced or deleted.
